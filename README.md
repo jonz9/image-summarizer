@@ -37,7 +37,7 @@ Backend Setup (Flask API)
 ```sh
 cd server
 python -m venv venv
-venv\Scripts\Activate.ps1  # for Windows Powershell
+source venv\bin\activate  # macOS
 pip install -r requirements.txt
 python app.py
 ```

@@ -1,5 +1,11 @@
 # Image Summarizer
 
+<img width="400" alt="imagesummarizer" src="https://github.com/user-attachments/assets/b81e83e9-38d3-4dd1-b97e-70cb315a2914" />
+
+## Idea 
+
+As a photographer and computer engineering student, computer vision is pretty interesting, but are systems able to see non-textual information in the image that resolute to fine, intricate details in the color and composition?
+
 ## Tech Stack
 
 - **Next.js**

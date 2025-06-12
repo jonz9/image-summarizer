@@ -1,6 +1,6 @@
 # Image Summarizer
 
-<img width="400" alt="imagesummarizer" src="https://github.com/user-attachments/assets/b81e83e9-38d3-4dd1-b97e-70cb315a2914" />
+<img width="1000" alt="imagesummarizer" src="https://github.com/user-attachments/assets/b81e83e9-38d3-4dd1-b97e-70cb315a2914" />
 
 ## Idea 
 
